@@ -1,0 +1,452 @@
+[
+  {
+      "fecha": "2024-04-01",
+      "monto": 100.25,
+      "usuario": {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "edad": 35,
+          "correo": "juan.perez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-02",
+      "monto": 75.60,
+      "usuario": {
+          "nombre": "María",
+          "apellido": "Gómez",
+          "edad": 28,
+          "correo": "maria.gomez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-03",
+      "monto": 200.00,
+      "usuario": {
+          "nombre": "Pedro",
+          "apellido": "Martínez",
+          "edad": 40,
+          "correo": "pedro.martinez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-04",
+      "monto": 50.75,
+      "usuario": {
+          "nombre": "Ana",
+          "apellido": "López",
+          "edad": 25,
+          "correo": "ana.lopez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-05",
+      "monto": 150.30,
+      "usuario": {
+          "nombre": "Carlos",
+          "apellido": "García",
+          "edad": 32,
+          "correo": "carlos.garcia@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-06",
+      "monto": 90.00,
+      "usuario": {
+          "nombre": "Sofía",
+          "apellido": "Díaz",
+          "edad": 45,
+          "correo": "sofia.diaz@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-07",
+      "monto": 120.50,
+      "usuario": {
+          "nombre": "Luis",
+          "apellido": "Hernández",
+          "edad": 30,
+          "correo": "luis.hernandez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-08",
+      "monto": 85.25,
+      "usuario": {
+          "nombre": "Laura",
+          "apellido": "Ramírez",
+          "edad": 27,
+          "correo": "laura.ramirez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-09",
+      "monto": 180.75,
+      "usuario": {
+          "nombre": "Diego",
+          "apellido": "Torres",
+          "edad": 38,
+          "correo": "diego.torres@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-10",
+      "monto": 110.20,
+      "usuario": {
+          "nombre": "Elena",
+          "apellido": "Fernández",
+          "edad": 29,
+          "correo": "elena.fernandez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-11",
+      "monto": 95.60,
+      "usuario": {
+          "nombre": "Manuel",
+          "apellido": "Sánchez",
+          "edad": 33,
+          "correo": "manuel.sanchez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-12",
+      "monto": 70.40,
+      "usuario": {
+          "nombre": "Carmen",
+          "apellido": "López",
+          "edad": 31,
+          "correo": "carmen.lopez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-13",
+      "monto": 130.80,
+      "usuario": {
+          "nombre": "Javier",
+          "apellido": "González",
+          "edad": 36,
+          "correo": "javier.gonzalez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-14",
+      "monto": 160.25,
+      "usuario": {
+          "nombre": "Patricia",
+          "apellido": "Martínez",
+          "edad": 41,
+          "correo": "patricia.martinez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-15",
+      "monto": 220.50,
+      "usuario": {
+          "nombre": "Pablo",
+          "apellido": "Díaz",
+          "edad": 26,
+          "correo": "pablo.diaz@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-16",
+      "monto": 45.75,
+      "usuario": {
+          "nombre": "Ana",
+          "apellido": "García",
+          "edad": 24,
+          "correo": "ana.garcia@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-17",
+      "monto": 190.20,
+      "usuario": {
+          "nombre": "David",
+          "apellido": "Fernández",
+          "edad": 37,
+          "correo": "david.fernandez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-18",
+      "monto": 80.30,
+      "usuario": {
+          "nombre": "Marta",
+          "apellido": "Pérez",
+          "edad": 30,
+          "correo": "marta.perez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-19",
+      "monto": 140.65,
+      "usuario": {
+          "nombre": "Jorge",
+          "apellido": "Sánchez",
+          "edad": 34,
+          "correo": "jorge.sanchez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-20",
+      "monto": 105.00,
+      "usuario": {
+          "nombre": "Lucía",
+          "apellido": "Martínez",
+          "edad": 29,
+          "correo": "lucia.martinez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-21",
+      "monto": 55.80,
+      "usuario": {
+          "nombre": "Roberto",
+          "apellido": "González",
+          "edad": 38,
+          "correo": "roberto.gonzalez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-22",
+      "monto": 75.40,
+      "usuario": {
+          "nombre": "Sara",
+          "apellido": "Gómez",
+          "edad": 32,
+          "correo": "sara.gomez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-23",
+      "monto": 115.20,
+      "usuario": {
+          "nombre": "Daniel",
+          "apellido": "López",
+          "edad": 36,
+          "correo": "daniel.lopez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-24",
+      "monto": 200.75,
+      "usuario": {
+          "nombre": "Cristina",
+          "apellido": "Hernández",
+          "edad": 27,
+          "correo": "cristina.hernandez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-25",
+      "monto": 85.90,
+      "usuario": {
+          "nombre": "Alberto",
+          "apellido": "Martínez",
+          "edad": 31,
+          "correo": "alberto.martinez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-26",
+      "monto": 170.40,
+      "usuario": {
+          "nombre": "Natalia",
+          "apellido": "Pérez",
+          "edad": 28,
+          "correo": "natalia.perez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-27",
+      "monto": 95.60,
+      "usuario": {
+          "nombre": "Andrés",
+          "apellido": "Sánchez",
+          "edad": 35,
+          "correo": "andres.sanchez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-28",
+      "monto": 60.75,
+      "usuario": {
+          "nombre": "Eva",
+          "apellido": "Gómez",
+          "edad": 33,
+          "correo": "eva.gomez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-29",
+      "monto": 125.30,
+      "usuario": {
+          "nombre": "Fernando",
+          "apellido": "López",
+          "edad": 39,
+          "correo": "fernando.lopez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-04-30",
+      "monto": 210.20,
+      "usuario": {
+          "nombre": "Carmen",
+          "apellido": "Martínez",
+          "edad": 26,
+          "correo": "carmen.martinez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-01",
+      "monto": 105.40,
+      "usuario": {
+          "nombre": "Javier",
+          "apellido": "Fernández",
+          "edad": 29,
+          "correo": "javier.fernandez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-02",
+      "monto": 80.60,
+      "usuario": {
+          "nombre": "María",
+          "apellido": "García",
+          "edad": 30,
+          "correo": "maria.garcia@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-03",
+      "monto": 135.25,
+      "usuario": {
+          "nombre": "Juan",
+          "apellido": "Pérez",
+          "edad": 34,
+          "correo": "juan.perez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-04",
+      "monto": 190.75,
+      "usuario": {
+          "nombre": "Laura",
+          "apellido": "Hernández",
+          "edad": 31,
+          "correo": "laura.hernandez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-05",
+      "monto": 70.90,
+      "usuario": {
+          "nombre": "Pedro",
+          "apellido": "Gómez",
+          "edad": 37,
+          "correo": "pedro.gomez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-06",
+      "monto": 150.40,
+      "usuario": {
+          "nombre": "Sofía",
+          "apellido": "Martínez",
+          "edad": 28,
+          "correo": "sofia.martinez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-07",
+      "monto": 100.60,
+      "usuario": {
+          "nombre": "Diego",
+          "apellido": "López",
+          "edad": 35,
+          "correo": "diego.lopez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-08",
+      "monto": 65.25,
+      "usuario": {
+          "nombre": "Elena",
+          "apellido": "García",
+          "edad": 27,
+          "correo": "elena.garcia@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-09",
+      "monto": 120.75,
+      "usuario": {
+          "nombre": "Roberto",
+          "apellido": "Sánchez",
+          "edad": 36,
+          "correo": "roberto.sanchez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-10",
+      "monto": 85.90,
+      "usuario": {
+          "nombre": "Sara",
+          "apellido": "González",
+          "edad": 32,
+          "correo": "sara.gonzalez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-11",
+      "monto": 130.20,
+      "usuario": {
+          "nombre": "Daniel",
+          "apellido": "Fernández",
+          "edad": 33,
+          "correo": "daniel.fernandez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-12",
+      "monto": 175.40,
+      "usuario": {
+          "nombre": "Cristina",
+          "apellido": "Gómez",
+          "edad": 29,
+          "correo": "cristina.gomez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-13",
+      "monto": 110.60,
+      "usuario": {
+          "nombre": "David",
+          "apellido": "Pérez",
+          "edad": 38,
+          "correo": "david.perez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-14",
+      "monto": 75.75,
+      "usuario": {
+          "nombre": "Marta",
+          "apellido": "Martínez",
+          "edad": 26,
+          "correo": "marta.martinez@example.com"
+      }
+  },
+  {
+      "fecha": "2024-05-15",
+      "monto": 145.90,
+      "usuario": {
+          "nombre": "Jorge",
+          "apellido": "García",
+          "edad": 30,
+          "correo": "jorge.garcia@example.com"
+      }
+  }
+]
